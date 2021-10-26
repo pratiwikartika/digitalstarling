@@ -2,7 +2,7 @@
 This is the Data challenge for me (Pratiwi Kartika) and Tajunissa Akbar from AI/ Machine Learning Bootcamp using Python, conducted by Code to Change.
 
 The Problem to Solve : 
--Digital starling aims to match Entrepreneurs with Freelancers with AI powered platform 
+-Digital Starling aims to match Entrepreneurs with Freelancers with AI powered platform 
 -To build an AI model that can take factors like skillset, expertise level and rates into consideration and build an accurate tool that meets the above need.
 
 Solution :
