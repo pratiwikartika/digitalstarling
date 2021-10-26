@@ -32,7 +32,7 @@ import pandas as pd
 def name(Name):
     return "Hey "+Name+"! Fill other details to get Connected!"
 
-df = pd.read_csv(r'C:\Users\prati\Documents\AI ML Bootcamp 2021\Digital Starling challenge\upwork.csv')
+df = pd.read_csv(r'upwork.csv')
 
 df["Combined_Skills"] = df["Skill_1"] + ' ' +\
                         df["Skill_2"] + ' ' +\
